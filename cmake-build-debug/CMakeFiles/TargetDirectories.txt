@@ -1,0 +1,3 @@
+C:/Users/Iris/OneDrive/Documents/Info/Info/10th grade/Recursive Circles/cmake-build-debug/CMakeFiles/Recursive_Circles.dir
+C:/Users/Iris/OneDrive/Documents/Info/Info/10th grade/Recursive Circles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iris/OneDrive/Documents/Info/Info/10th grade/Recursive Circles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
